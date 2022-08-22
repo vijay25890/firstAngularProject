@@ -1,0 +1,8 @@
+firstly we create an multiple routes and tabs 
+create crud app in one tab 
+adding searchbar and filter 
+adding multiple conditions in one tab
+create form in one tab
+home page needed
+make footer and header 
+adding bootstrap 
